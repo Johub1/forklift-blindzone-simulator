@@ -4,9 +4,7 @@ An interactive 3D visualization of forklift blind zones for occupational safety 
 Built with vanilla JavaScript and Three.js — no installation required.
 
 🔗 Try it Live →
-이미지 표시
-이미지 표시
-이미지 표시
+
 
 🎯 Purpose
 Forklift-related fatalities account for approximately 85 deaths and 34,900 serious injuries per year in the United States alone (Bureau of Labor Statistics). A significant portion of these incidents occur because pedestrians enter blind zones that the operator cannot physically see.
@@ -62,8 +60,6 @@ Bureau of Labor Statistics — Census of Fatal Occupational Injuries (CFOI)
 Jo Hojun (조호준)
 Safety Engineering Student — Chungbuk National University
 CHST Candidate 
-이미지 표시
-이미지 표시
 
 📄 License
 MIT License — free to use, share, and modify with attribution.
